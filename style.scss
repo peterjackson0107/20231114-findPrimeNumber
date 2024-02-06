@@ -4,6 +4,7 @@ body {
     width: 100vw;
     height: 100vh;
     margin: 0;
+    background-color: rgb(190, 173, 250);
 }
 
 .area {
@@ -50,12 +51,12 @@ body {
             left: 22%;
 
             p {
-                font-size: 20px;
+                font-size: 24px;
                 font-family: $font-family;
             }
 
             input {
-                width: 130px;
+                width: 150px;
                 height: 30px;
             }
 
@@ -64,19 +65,15 @@ body {
                 height: 30px;
                 background-color: rgba(149, 149, 149, 1);
                 color: white;
-                font-size: 14px;
+                font-size: 18px;
+                margin-left: 10px;
             }
         }
         .answerArea{
-            width: 80%;
-            height: 60%;
-            position: absolute;
-            top: 40%;
-            left: 15%;
-            .answerSheet{
-                height: 100%;
-                overflow: auto;
-            }
+            width: 70%;
+            height: 70%;
+            margin: 10% auto 0 auto;
+            overflow: auto;
         }
     }
 }

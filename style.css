@@ -2,6 +2,7 @@ body {
   width: 100vw;
   height: 100vh;
   margin: 0;
+  background-color: rgb(190, 173, 250);
 }
 
 .area {
@@ -46,11 +47,11 @@ body {
   left: 22%;
 }
 .area .mainArea .mainTop p {
-  font-size: 20px;
+  font-size: 24px;
   font-family: font-family "Yu Gothic";
 }
 .area .mainArea .mainTop input {
-  width: 130px;
+  width: 150px;
   height: 30px;
 }
 .area .mainArea .mainTop button {
@@ -58,16 +59,12 @@ body {
   height: 30px;
   background-color: rgb(149, 149, 149);
   color: white;
-  font-size: 14px;
+  font-size: 18px;
+  margin-left: 10px;
 }
 .area .mainArea .answerArea {
-  width: 80%;
-  height: 60%;
-  position: absolute;
-  top: 40%;
-  left: 15%;
-}
-.area .mainArea .answerArea .answerSheet {
-  height: 100%;
+  width: 70%;
+  height: 70%;
+  margin: 10% auto 0 auto;
   overflow: auto;
 }/*# sourceMappingURL=style.css.map */

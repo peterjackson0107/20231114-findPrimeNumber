@@ -2,6 +2,7 @@ let arrowBtn = document.getElementById("arrowBtn")
 let findNum = document.getElementById("findNum")
 const aTest = document.getElementById("test");
 const answerSheet = document.getElementById("answerSheet")
+const answerSheet1 = document.getElementById("answerSheet1")
 console.log(typeof (findNum.value))
 let arr = []
 let str
@@ -21,10 +22,11 @@ arrowBtn.addEventListener("click", () => {
         }
     }
     console.log(arr)
-    str = arr.join(",")
+    str = arr.join("、")
     number = arr.length
     console.log(str)
     console.log(number)
 
-    answerSheet.innerText = "答案有" + number + "個" + str
+    answerSheet.innerText = "答案有" + number + "個"
+    answerSheet1.innerText = str
 })
