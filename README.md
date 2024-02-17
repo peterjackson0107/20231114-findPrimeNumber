@@ -4,4 +4,4 @@
 
 使用工具：HTML、scss、javascript
 
-https://peterjackson0107.github.io/20231114-findPrimeNumber-HomeWork7/
+網址：https://peterjackson0107.github.io/20231114-findPrimeNumber-HomeWork7/
