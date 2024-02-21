@@ -1,21 +1,21 @@
-# 2023.11.14
+# 2023.11.14 (質數有幾個) (素数を見つける)
 
-## 網址
+## 網址 (ウェブ)
 https://peterjackson0107.github.io/20231114-findPrimeNumber/
 
-## 專案技術
+## 專案技術 (プログラミング言語)
 - HTML
 - CSS
 - SCSS
 - Bootstrap v5.1.1
 - JavaScript
 
-## 輔助技術
+## 輔助技術 (フレームワーク)
 - codepen
 - fontawesome
 - colorhunt
 
-## 功能
+## 功能 (機能)
 - [x] 輸入要找的最大值=x
 - [x] 顯示x以內的質數有幾個
 - [x] 顯示質數個數
@@ -26,12 +26,12 @@ https://peterjackson0107.github.io/20231114-findPrimeNumber/
 ## 想法或目標
 * 利用簡單程式碼做出找質數
 
-## 參考版面
+## 參考版面 (參考資料)
 * 画面
 
 ![image](https://github.com/peterjackson0107/20231114-findPrimeNumber/assets/151004314/5222222d-7028-48f9-8225-b7e31d5ad77b)
 
-## 畫面
+## 畫面 (画面)
 * 最初の画面
 
 ![image](https://github.com/peterjackson0107/20231114-findPrimeNumber/assets/151004314/4cc5e942-4b09-48b9-94c8-633aa2d88f18)
